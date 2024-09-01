@@ -21,7 +21,7 @@
     float:left;
 }
 .gstyle img:hover{
-    width: 100%;
+    width: 100px;
     border-radius: 1px 1px 1px 1px;
     Opacity:0.5;
     
