@@ -15,7 +15,8 @@
     <div class="gstyle">
     <a href="Poyot2.jpg" target="_blank">
         <img src="Poyot2.jpg"></a><p class="pstyle">Poyot 2</p>
-    
+    float⬅️
+float:left;
     </div>
     <div class="gstyle">
         <a href="images/Poyot3.jpg" target="_blank">
