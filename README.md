@@ -19,13 +19,13 @@
 
     </div>
     <div class="gstyle">
-        <a href="images/Poyot3.jpg" target="_blank">
-    <img src="images/Poyot3.jpg"></a><p class="pstyle">Poyot 3</p>
+        <a href="Poyot3.jpg" target="_blank">
+    <img src="Poyot3.jpg"></a><p class="pstyle">Poyot 3</p>
     
     </div>
     <div class="gstyle">
-        <a href="images/Poyot4.jpg" target="_blank">
-    <img src="images/Poyot4.jpg"></a><p class="pstyle">Poyot 4</p>
+        <a href="Poyot4.jpg" target="_blank">
+    <img src="Poyot4.jpg"></a><p class="pstyle">Poyot 4</p>
     
     </div>
     <div class="gstyle">
