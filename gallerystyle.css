@@ -1,20 +1,20 @@
 @charset "utf-8";
 
 .gstyle{
-    border: 8000px solid #545454;
+    border: 6000px solid #545454;
     width: 200px;
-    height: 40px;
+    height: 200px;
     float: left;
     margin: 5px;
     border-radius: 8px 8px;
-    transition: all 2s;
+    
     
     
     
     
 }
 .gstyle img{
-    width: 75px;
+    width: 100px;
     height: 15px;
     border-radius: 8px 8px 0px 0px;
     transition: all 2s;
