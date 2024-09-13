@@ -11,12 +11,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: #dde5f4;
+  background: aqua;
   height: 100vh;
 }
 
 .screen-1 {
-  background: #f1f7fe;
+  background: aqua;
   padding: 2em;
   display: flex;
   flex-direction: column;
@@ -28,7 +28,7 @@ body {
   margin-top: -3em;
 }
 .screen-1 .email {
-  background: white;
+  background: aqua;
   box-shadow: 0 0 2em #e6e9f9;
   padding: 1em;
   display: flex;
@@ -59,7 +59,7 @@ body {
   margin-bottom: -0.2em;
 }
 .screen-1 .password {
-  background: white;
+  background: aqua;
   box-shadow: 0 0 2em #e6e9f9;
   padding: 1em;
   display: flex;
@@ -93,7 +93,7 @@ body {
 }
 .screen-1 .login {
   padding: 1em;
-  background: #3e4684;
+  background: aqua;
   color: white;
   border: none;
   border-radius: 30px;
