@@ -11,12 +11,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: aqua;
+  background: "Poyot4.jpg";
   height: 100vh;
 }
 
 .screen-1 {
-  background: aqua;
+  background-image: "Poyot4.jpg";;
   padding: 2em;
   display: flex;
   flex-direction: column;
