@@ -10,6 +10,12 @@ $s: hsl(233deg 36% 38%);
 	box-shadow: 0 0 2em hsl(231deg 62% 94%);
 	"Poyot4.jpg";
 }
+.styled-image {
+            width: 300px;
+            height: 200px;
+            border: 2px solid black;
+            border-radius: 10px; /* Rounded corners */
+            box-shadow: 3px 3px 5px grey; /* Shadow effect */
 body {
 	user-select: none;
 	overflow-y: hidden;
