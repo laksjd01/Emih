@@ -37,7 +37,7 @@ body {
 		flex-direction: column;
 		gap: 0.5em;
 		border-radius: 20px;
-		color: hsl(0deg 0% 30%);
+		color: red;
 		margin-top: -3em;
 		input {
 			outline: none;
@@ -60,7 +60,7 @@ body {
 		flex-direction: column;
 		gap: 0.5em;
 		border-radius: 20px;
-		color: hsl(0deg 0% 30%);
+		color: aqua;
 		input {
 			outline: none;
 			border: none;
@@ -88,7 +88,7 @@ body {
 	.footer {
 		display: flex;
 		font-size: 0.7em;
-		color: hsl(0deg 0% 37%);
+		color: aqua;
 		gap: 14em;
 		padding-bottom: 10em;
 		span { cursor: pointer }
